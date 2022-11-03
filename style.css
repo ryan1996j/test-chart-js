@@ -1,0 +1,42 @@
+div {
+    height: 100vh;
+    color: rgb(255, 211, 114);
+    text-align: center;
+
+}
+
+div h1,
+div p {
+    font-size: 100px;
+    margin-top: 0;
+
+}
+
+.one {
+    background-color: #905E96;
+}
+
+.two {
+    background-color: #D58BDD;
+}
+
+.three {
+    background-color: #FF99D7;
+}
+
+.chart {
+    height: auto;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #0bfc17;
+}
+
+
+
+.type {
+    background-color: navy;
+    color: whitesmoke;
+    height: 100vh;
+    width: 100%;
+}
